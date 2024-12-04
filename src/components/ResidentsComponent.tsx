@@ -3,7 +3,6 @@ import React, { useState } from 'react';
 import { 
   Users, 
   RefreshCw,
-  UserCircle,
   Search,
   Plus
 } from 'lucide-react';

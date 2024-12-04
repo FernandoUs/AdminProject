@@ -5,7 +5,6 @@ import {
   Users, 
   Home,
   RefreshCw,
-  UserCircle,
   Search,
   Plus
 } from 'lucide-react';
