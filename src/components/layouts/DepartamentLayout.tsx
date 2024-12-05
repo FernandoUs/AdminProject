@@ -25,6 +25,7 @@ const DashboardLayout = ({ children }: DashboardLayoutProps) => {
     const navigationItems = [
         { name: "Departamentos", icon: LayoutDashboard, href: "/" },
         { name: "Residentes", icon: Users, href: "/residents" },
+        { name: "Areas", icon : Building2, href: "/areas_comunes" },
     ];
 
     return (
